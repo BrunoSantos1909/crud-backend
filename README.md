@@ -10,7 +10,7 @@ Instalar o Maven: mvn install
 Ter o Postgres rodando na porta 5432 antes de rodar o projeto.
 ```
 
-### Rodar o backend
+### Rodar o projeto
 ```
 mvn spring-boot:run
 ```
